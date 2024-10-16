@@ -9,18 +9,18 @@ Feel free to explore my projects, and reach out to me for collaborations or inqu
 
 ### Python Projects
 
-#### 1. Customer Segmentation
+#### 1. Sentiment Analysis on Online Discussions (Research Project)
+- **Goal**: Develop and propose a model for performing sentiment analysis on online discussions.
+- **Description**: This was my final year research project, where we proposed a model for sentiment analysis on user-generated content from social media platforms. The project involved analyzing comments and posts to categorize opinions into positive, neutral, or negative sentiments. The model was developed and tested using a large dataset of online discussions, and the results showed promising accuracy.
+- **Skills**: Model development, Natural Language Processing (NLP), sentiment classification, data preprocessing.
+- **Technology**: Python, NLTK, Pandas, Scikit-learn.
+- **[Link to Project]**
+- 
+#### 2. Customer Segmentation
 - **Goal**: Segment customers based on purchase behavior using clustering techniques.
 - **Description**: This project involves analyzing customer data to group them into distinct segments for targeted marketing. The dataset includes customer demographic and purchasing information.
 - **Skills**: Data cleaning, clustering (K-means), Exploratory Data Analysis (EDA).
 - **Technology**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
-- **[Link to Project]**
-
-#### 2. Sentiment Analysis on Online Discussions
-- **Goal**: Analyze sentiments from user-generated content on social media.
-- **Description**: This project focuses on performing sentiment analysis on comments and posts to categorize opinions as positive, neutral, or negative.
-- **Skills**: Data preprocessing, sentiment classification, Natural Language Processing (NLP).
-- **Technology**: Python, NLTK, Pandas, Scikit-learn.
 - **[Link to Project]**
 
 #### 3. Movie Success Prediction
