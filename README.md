@@ -1,12 +1,76 @@
+Annim Siaw Oscar - Data Analyst Portfolio
 About
+Hi, I'm Annim! I'm a Data Analyst with a background in Computer Science and expertise in Python, Power BI, Tableau, and Excel. I specialize in data analysis, machine learning, and full-stack development, with a focus on using data to solve real-world problems. This repository showcases my data analytics and data science projects, demonstrating my skills and progress.
 
-Hi, I'm Annim! I have a strong background in Computer Science (BSc) and Data Science, with a keen interest in using data to solve complex problems and drive insights. I’m currently seeking opportunities in the data analytics and machine learning space, and I’m on track to further my education in these fields as I aim to pursue a Ph.D.
+Feel free to explore my projects, and reach out to me for collaborations or inquiries.
 
-Throughout my academic and professional journey, I’ve built a solid foundation in computer science and full-stack development, and I’ve developed practical skills in data analysis, machine learning, and statistical analysis. My projects have involved using tools like Python, Excel, MySQL, Tableau, and Power BI, where I’ve explored areas like customer segmentation, sentiment analysis, and educational impact assessment. I am passionate about uncovering trends, patterns, and meaningful insights from complex datasets.
-
-I’ve also gained practical experience working in roles such as IT Officer and ICT Coordinator, where I sharpened my problem-solving skills in real-world environments. Whether working on a project individually or collaborating in a team, I am driven by the desire to leverage data to make informed decisions.
-
-When I’m not working on data-related projects, I enjoy exploring the latest tools and techniques in data science and machine learning, always looking for ways to expand my expertise. I’m excited to apply my technical skills and passion for data analysis to contribute to impactful solutions in any organization.
-
-Feel free to check out my CV in PDF, and explore my projects in this repository showcasing my journey and skills in data analytics and machine learning.
-
+Portfolio Projects
+Python Projects
+1. Customer Segmentation
+Goal: Segment customers based on purchase behavior using clustering techniques.
+Description: This project involves analyzing customer data to group them into distinct segments for targeted marketing. The dataset includes customer demographic and purchasing information.
+Skills: Data cleaning, clustering (K-means), Exploratory Data Analysis (EDA).
+Technology: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
+[Link to Project]
+2. Sentiment Analysis on Online Discussions
+Goal: Analyze sentiments from user-generated content on social media.
+Description: This project focuses on performing sentiment analysis on comments and posts to categorize opinions as positive, neutral, or negative.
+Skills: Data preprocessing, sentiment classification, Natural Language Processing (NLP).
+Technology: Python, NLTK, Pandas, Scikit-learn.
+[Link to Project]
+3. Movie Success Prediction
+Goal: Determine the key factors contributing to a movie's success.
+Description: Analyzing a dataset of movies to explore the relationship between budget, ratings, and gross earnings.
+Skills: Correlation analysis, data cleaning, hypothesis testing.
+Technology: Python, Pandas, NumPy, Seaborn, Matplotlib.
+[Link to Project]
+Power BI Projects
+1. Sales Performance Dashboard
+Goal: Analyze sales data and create an interactive dashboard.
+Description: This project includes analyzing the performance of a store over a period of time and visualizing key metrics such as monthly sales, best-selling products, and revenue by location.
+Skills: Data cleaning, dashboard design, interactive reports.
+Technology: Power BI.
+[Link to Project]
+2. Employee Productivity Analysis
+Goal: Create a dashboard to track employee productivity and performance.
+Description: This project involves analyzing employee data to monitor their productivity and identify patterns or areas for improvement.
+Skills: Data analysis, KPI visualization, report automation.
+Technology: Power BI.
+[Link to Project]
+Tableau Projects
+1. Global Sales Dashboard
+Goal: Visualize global sales performance.
+Description: Using Tableau to create a visually engaging dashboard for understanding the sales data of a company across multiple countries.
+Skills: Data visualization, storytelling with data, map charts.
+Technology: Tableau.
+[Link to Project]
+2. COVID-19 Data Visualization
+Goal: Visualize COVID-19 cases, deaths, and vaccination rates by country.
+Description: This project presents an interactive dashboard that tracks the global impact of COVID-19 with filters for regions and timeframes.
+Skills: Data aggregation, filtering, geographic maps.
+Technology: Tableau.
+[Link to Project]
+Excel Projects
+1. Financial Analysis of a Company
+Goal: Analyze financial data to assess company performance.
+Description: This project involved using Excel to clean and analyze a dataset containing financial records. Key metrics such as revenue, expenses, and profit margins were calculated.
+Skills: Data cleaning, financial modeling, pivot tables, charting.
+Technology: Excel.
+[Link to Project]
+2. HR Employee Attrition Report
+Goal: Identify trends and causes of employee attrition.
+Description: Analyzing HR data to determine the factors contributing to employee turnover. The analysis included employee demographics, satisfaction scores, and exit reasons.
+Skills: Data analysis, reporting, pivot tables.
+Technology: Excel.
+[Link to Project]
+Education
+University of Ghana: Bachelor of Science - Computer Science
+[Data Science Certification Courses and Other Relevant Education]
+Certificates
+Data Science Professional Certificate – [Institution Name] (Date)
+Tableau Data Visualization – [Institution Name] (Date)
+Power BI Essentials – [Institution Name] (Date)
+Python for Data Analysis – [Institution Name] (Date)
+Contact
+LinkedIn: [@yourLinkedInProfile]
+Email: [your-email@example.com]
