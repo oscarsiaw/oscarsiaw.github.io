@@ -8,9 +8,10 @@ Feel free to explore my projects, and reach out to me for collaborations or inqu
 ## Portfolio Projects
 
 ## MySQL Projects
-1. [Your MySQL Project Title]
+### 1.Financial Loan Data Analysis SQL Queries
 Goal: [Describe the goal of the project here].
-Description: [Briefly describe the dataset you used, the queries, and the main objectives you achieved. Mention key insights or challenges].
+Description: This project involves a comprehensive set of SQL queries used for analyzing a financial loan dataset. 
+The queries are written to extract key insights about the loans, such as the total applications, loan amounts, payment information, and trends over time..
 Skills: SQL queries (SELECT, JOIN, GROUP BY, etc.), Data cleaning, Data transformation.
 Technology: MySQL.
 [Link to Project]
