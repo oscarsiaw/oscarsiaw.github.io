@@ -30,6 +30,14 @@ Feel free to explore my projects, and reach out to me for collaborations or inqu
 - **Technology**: Python, Pandas, NumPy, Seaborn, Matplotlib.
 - **[Link to Project]**
 
+- #### 4. Introduction to Exploratory Data Analysis
+- **Goal**: Perform Exploratory Data Analysis (EDA) on a dataset of roller coasters.
+- **Description**: This project involved using Python to analyze a dataset related to roller coasters, focusing on identifying trends, patterns, and key insights. It included data cleaning, summary statistics, visualizations, and interpretation of the data to uncover interesting insights about the coasters’ features and performance metrics.
+- **Skills**: Data cleaning, EDA, data visualization, summary statistics.
+- **Technology**: Python, Pandas, Matplotlib, Seaborn.
+- **[Link to Project]**
+
+
 ### Power BI Projects
 
 #### 1. Sales Performance Dashboard
