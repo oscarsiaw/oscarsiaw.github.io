@@ -35,7 +35,7 @@ Feel free to explore my projects, and reach out to me for collaborations or inqu
 - **Description**: This project involved using Python to analyze a dataset related to roller coasters, focusing on identifying trends, patterns, and key insights. It included data cleaning, summary statistics, visualizations, and interpretation of the data to uncover interesting insights about the coasters’ features and performance metrics.
 - **Skills**: Data cleaning, EDA, data visualization, summary statistics.
 - **Technology**: Python, Pandas, Matplotlib, Seaborn.
-- **Link to Project** Introduction to Exploratory Data Analysis Python · Roller Coaster Database.ipynb
+- **Link to Project**(https://github.com/oscarsiaw/oscarsiaw.github.io/blob/f7598ae00fefebc20d602258cceb18f0e30e2dc3/Introduction%20to%20Exploratory%20Data%20Analysis%20Python%20%C2%B7%20Roller%20Coaster%20Database.ipynb)
 
 
 ### Power BI Projects
