@@ -9,10 +9,10 @@ Feel free to explore my projects, and reach out to me for collaborations or inqu
 
 ## MySQL Projects
 ### 1.Financial Loan Data Analysis SQL Queries
-- **Goal**: Analyze a financial loan dataset to extract insights using SQL, focusing on loan approval patterns, customer behavior, and financial trends
-- **Description**: This project involves a comprehensive set of SQL queries used for analyzing a financial loan dataset. The queries are written to extract key insights about the loans,
-- such as the total applications, loan amounts, payment information, and trends over time..
-Skills: SQL queries (SELECT, JOIN, GROUP BY, etc.), Data cleaning, Data transformation.
+- **Goal**: Analyze financial loan data using SQL for querying and Tableau for visualization to uncover trends and insights.
+- **Description**: his project involves financial loan data analysis. After querying the dataset using SQL for insights on loan status,
+- applicant demographics, and loan types, the dataset was transferred to Tableau for creating visualizations that highlight trends and key metrics.
+**Skills**: SQL queries (SELECT, JOIN, GROUP BY, etc.), Data cleaning, Data transformation.
 Technology: MySQL.
 - [Link to Project]
 
