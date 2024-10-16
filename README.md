@@ -1,11 +1,27 @@
 # Annim Siaw Oscar - Data Analyst Portfolio
 
 ## About
-Hi, I'm Annim! I'm a Data Analyst with a background in **Computer Science** and expertise in **Python**, **Power BI**, **Tableau**, and **Excel**. I specialize in data analysis, machine learning, and full-stack development, with a focus on using data to solve real-world problems. This repository showcases my data analytics and data science projects, demonstrating my skills and progress.
+Hi, I'm Annim! I'm a Data Analyst with a background in **Computer Science** and expertise in **MySQL**, **Python**, **Power BI**, **Tableau**, and **Excel**. I specialize in data analysis, machine learning, and full-stack development, with a focus on using data to solve real-world problems. This repository showcases my data analytics and data science projects, demonstrating my skills and progress.
 
 Feel free to explore my projects, and reach out to me for collaborations or inquiries.
 
 ## Portfolio Projects
+
+## MySQL Projects
+1. [Your MySQL Project Title]
+Goal: [Describe the goal of the project here].
+Description: [Briefly describe the dataset you used, the queries, and the main objectives you achieved. Mention key insights or challenges].
+Skills: SQL queries (SELECT, JOIN, GROUP BY, etc.), Data cleaning, Data transformation.
+Technology: MySQL.
+[Link to Project]
+
+### 2. [Your MySQL Project Title]
+Goal: [Describe the goal of the project here].
+Description: [Briefly describe the dataset you used, the queries, and the main objectives you achieved. Mention key insights or challenges].
+Skills: SQL queries (SELECT, JOIN, GROUP BY, etc.), Data cleaning, Data transformation.
+Technology: MySQL.
+[Link to Project]
+
 
 ### Python Projects
 
