@@ -13,15 +13,19 @@ Feel free to explore my projects, and reach out to me for collaborations or inqu
 - **Description**: his project involves financial loan data analysis. After querying the dataset using SQL for insights on loan status,
 - applicant demographics, and loan types, the dataset was transferred to Tableau for creating visualizations that highlight trends and key metrics.
 **Skills**: SQL queries (SELECT, JOIN, GROUP BY, etc.), Data cleaning, Data transformation.
-Technology: MySQL.
-- Link to Project: https://github.com/oscarsiaw/oscarsiaw.github.io/blob/47417cafacd32105f7079915a1026fe771dce97f/BANK%20LOAN%20REPORT%20QUERY%20DOCUMENT.pdf
+- **Technology**: MySQL.
+- **Link to Project**: https://github.com/oscarsiaw/oscarsiaw.github.io/blob/47417cafacd32105f7079915a1026fe771dce97f/BANK%20LOAN%20REPORT%20QUERY%20DOCUMENT.pdf
 
-### 2. [Your MySQL Project Title]
-Goal: [Describe the goal of the project here].
-Description: [Briefly describe the dataset you used, the queries, and the main objectives you achieved. Mention key insights or challenges].
-Skills: SQL queries (SELECT, JOIN, GROUP BY, etc.), Data cleaning, Data transformation.
-Technology: MySQL.
-[Link to Project]
+### 2. Layoffs Data Cleaning and Transformation Project
+- **Goal**: To clean and transform raw layoffs data using SQL, ensuring data quality for further analysis by addressing missing values, duplicates, and inconsistencies.
+- **Description**:s project processes a dataset of company layoffs by performing essential cleaning and transformations. Key steps include:
+Handling Missing Values: Cleaned fields like total_laid_off, industry, and percentage_laid_off.
+Removing Duplicates: Used ROW_NUMBER() and PARTITION BY to remove duplicate rows.
+Data Standardization: Trimmed and corrected inconsistent fields such as industry and country.
+Date Conversion: Converted date from string format to a valid DATE format using STR_TO_DATE().
+- **Skills**: SQL queries (SELECT, JOIN, GROUP BY, etc.), Data cleaning, Data transformation.
+- **Technology**: MySQL.
+- **Link to Project** : 
 
 
 ### Python Projects
