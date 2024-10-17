@@ -61,12 +61,12 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 
 ### Power BI Projects
 
-#### 1. Sales Performance Dashboard
-- **Goal**: Analyze sales data and create an interactive dashboard.
-- **Description**: This project includes analyzing the performance of a store over a period of time and visualizing key metrics such as monthly sales, best-selling products, and revenue by location.
-- **Skills**: Data cleaning, dashboard design, interactive reports.
-- **Technology**: Power BI.
-- **[Link to Project]**
+#### 1.Sales Performance Analysis (Power BI Project)
+- **Goal**: Analyze sales data to evaluate performance metrics and identify trends.
+- **Description**: This project involves the use of Power BI to create interactive dashboards that visualize sales data over time. The analysis focuses on key performance indicators (KPIs) such as total sales, sales growth, and product performance. The dashboards allow users to filter data by various dimensions, such as region and product category, providing insights into sales trends and patterns.
+- **Skills** : Data visualization, data modeling, KPI analysis, report building.
+- **Technology**: Power BI, DAX, Excel.
+- **Link to Project** : 
 
 #### 2. Employee Productivity Analysis
 - **Goal**: Create a dashboard to track employee productivity and performance.
