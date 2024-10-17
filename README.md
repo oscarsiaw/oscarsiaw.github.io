@@ -66,7 +66,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Description**: This project involves the use of Power BI to create interactive dashboards that visualize sales data over time. The analysis focuses on key performance indicators (KPIs) such as total sales, sales growth, and product performance. The dashboards allow users to filter data by various dimensions, such as region and product category, providing insights into sales trends and patterns.
 - **Skills** : Data visualization, data modeling, KPI analysis, report building.
 - **Technology**: Power BI, DAX, Excel.
-- **Link to Project** : 
+- **Link to Project** : https://github.com/oscarsiaw/oscarsiaw.github.io/tree/7b1b6560f53bc85232c3c48903b958dc145d3bee/Sales%20Performance
 
 #### 2. Employee Productivity Analysis
 - **Goal**: Create a dashboard to track employee productivity and performance.
