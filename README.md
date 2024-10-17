@@ -44,12 +44,12 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
 - **[Link to Project]**
 
-#### 3. Movie Success Prediction
-- **Goal**: Determine the key factors contributing to a movie's success.
-- **Description**: Analyzing a dataset of movies to explore the relationship between budget, ratings, and gross earnings.
-- **Skills**: Correlation analysis, data cleaning, hypothesis testing.
-- **Technology**: Python, Pandas, NumPy, Seaborn, Matplotlib.
-- **[Link to Project]**
+#### 3.Loan Eligibility Prediction (Python Project)
+- **Goal**: Predict loan eligibility based on applicant data and financial information.
+- **Description**: This project aims to develop a predictive model to assess whether an applicant is eligible for a loan. The analysis involves visualizing key features such as credit scores and loan status, followed by the implementation of a Random Forest classifier    to classify loan eligibility. The model was evaluated using precision, recall, and F1-score metrics, with cross-validation to ensure robustness. The results indicate a strong performance in predicting loan eligibility.
+  Skills: Data visualization, feature engineering, model training and evaluation, cross-validation.
+- **Technology**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn.
+- **Link to Project**: 
 
  #### 4. Introduction to Exploratory Data Analysis
 - **Goal**: Perform Exploratory Data Analysis (EDA) on a dataset of roller coasters.
