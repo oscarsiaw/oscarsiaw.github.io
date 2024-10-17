@@ -49,7 +49,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Description**: This project aims to develop a predictive model to assess whether an applicant is eligible for a loan. The analysis involves visualizing key features such as credit scores and loan status, followed by the implementation of a Random Forest classifier    to classify loan eligibility. The model was evaluated using precision, recall, and F1-score metrics, with cross-validation to ensure robustness. The results indicate a strong performance in predicting loan eligibility.
   Skills: Data visualization, feature engineering, model training and evaluation, cross-validation.
 - **Technology**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn.
-- **Link to Project**: 
+- **Link to Project**: https://github.com/oscarsiaw/oscarsiaw.github.io/tree/2e41b5e5dcf80074af96ec841c69bc6e2911845c/Loan%20Eligibility 
 
  #### 4. Introduction to Exploratory Data Analysis
 - **Goal**: Perform Exploratory Data Analysis (EDA) on a dataset of roller coasters.
