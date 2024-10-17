@@ -75,6 +75,17 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: Power BI.
 - **[Link to Project]**
 
+### 3. Blinkit Store Analysis (Power BI Project)
+- **Goal**: Analyze the sales performance, customer patterns, and operational insights of Blinkit store using Power BI.
+
+- **Description**: This project involves analyzing sales data from Blinkit, focusing on key performance indicators (KPIs) such as total sales, customer 
+  segmentation, product performance, and geographical trends. Through interactive dashboards, insights are generated to help the store optimize its sales strategy and improve customer engagement. 
+    The project includes data cleaning, transformation, and building detailed visualizations to support decision-making.
+
+- **Skills**: Data analysis, visualization, KPI reporting, dashboard creation.
+- **Technology**: Power BI, DAX, Power Query.
+- **Link to Project** :
+
 ### Tableau Projects
 
 #### 1. Global Sales Dashboard
