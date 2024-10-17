@@ -7,8 +7,8 @@ Feel free to explore my projects, and reach out to me for collaborations or inqu
 
 ## Portfolio Projects
 
-## MySQL Projects
-### 1.Financial Loan Data Analysis SQL Queries
+### MySQL Projects
+#### 1.Financial Loan Data Analysis SQL Queries
 - **Goal**: Analyze financial loan data using SQL for querying and Tableau for visualization to uncover trends and insights.
 - **Description**: his project involves financial loan data analysis. After querying the dataset using SQL for insights on loan status,
 - applicant demographics, and loan types, the dataset was transferred to Tableau for creating visualizations that highlight trends and key metrics.
@@ -16,7 +16,7 @@ Feel free to explore my projects, and reach out to me for collaborations or inqu
 - **Technology**: MySQL.
 - **Link to Project**: https://github.com/oscarsiaw/oscarsiaw.github.io/blob/47417cafacd32105f7079915a1026fe771dce97f/BANK%20LOAN%20REPORT%20QUERY%20DOCUMENT.pdf
 
-### 2. Layoffs Data Cleaning and Transformation Project
+#### 2. Layoffs Data Cleaning and Transformation Project
 - **Goal**: To clean and transform raw layoffs data using SQL, ensuring data quality for further analysis by addressing missing values, duplicates, and inconsistencies.
 - **Description**:s project processes a dataset of company layoffs by performing essential cleaning and transformations. Key steps include:
 Handling Missing Values: Cleaned fields like total_laid_off, industry, and percentage_laid_off.
