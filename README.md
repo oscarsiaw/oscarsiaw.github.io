@@ -84,7 +84,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 
 - **Skills**: Data analysis, visualization, KPI reporting, dashboard creation.
 - **Technology**: Power BI, DAX, Power Query.
-- **Link to Project** :
+- **Link to Project** : https://github.com/oscarsiaw/oscarsiaw.github.io/tree/c458f88860ef6eb261ba369c4778eb31a0b49f74/Blinkit%20Store
 
 ### Tableau Projects
 
