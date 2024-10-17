@@ -25,7 +25,7 @@ Data Standardization: Trimmed and corrected inconsistent fields such as industry
 Date Conversion: Converted date from string format to a valid DATE format using STR_TO_DATE().
 - **Skills**: SQL queries (SELECT, JOIN, GROUP BY, etc.), Data cleaning, Data transformation.
 - **Technology**: MySQL.
-- **Link to Project** : 
+- **Link to Project Codes ** : https://github.com/oscarsiaw/oscarsiaw.github.io/blob/8479d8ff61c2adf274dddec1c60b9e96e594dac3/Layoffs%20Data%20Cleaning%20and%20Transformation%20Project.pdf
 
 
 ### Python Projects
