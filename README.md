@@ -14,7 +14,7 @@ Feel free to explore my projects, and reach out to me for collaborations or inqu
 - applicant demographics, and loan types, the dataset was transferred to Tableau for creating visualizations that highlight trends and key metrics.
 **Skills**: SQL queries (SELECT, JOIN, GROUP BY, etc.), Data cleaning, Data transformation.
 Technology: MySQL.
-- [Link to Project]
+- Link to Project: https://github.com/oscarsiaw/oscarsiaw.github.io/blob/47417cafacd32105f7079915a1026fe771dce97f/BANK%20LOAN%20REPORT%20QUERY%20DOCUMENT.pdf
 
 ### 2. [Your MySQL Project Title]
 Goal: [Describe the goal of the project here].
