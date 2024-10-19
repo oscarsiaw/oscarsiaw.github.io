@@ -107,11 +107,11 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 #### 1. Bike Store Analysis Using Excel
 - **Goal**: Analyze bike store sales and performance data to uncover key insights regarding product trends, customer demographics, and overall sales performance.
 - **Description**: This project involved analyzing sales data from a bike store using Excel. Various functions, charts, and pivot tables were used to explore the data and extract meaningful insights.
-        The project focused on understanding sales trends, product categories, and customer segments to support decision-making.
+  The project focused on understanding sales trends, product categories, and customer segments to support decision-making.
 - **Skills** :
 - Data analysis, Data visualization, Pivot tables, Excel functions (VLOOKUP, SUMIF, etc.), Charts and graphs
    **Technology**: Microsoft Excel
-- **Link to the Project** :
+- **Link to the Project** : https://github.com/oscarsiaw/oscarsiaw.github.io/tree/243aa05d71076bb28148225a9d782f8abc2cbeae/Bike%20Sales
 
 #### 2. HR Employee Attrition Report
 - **Goal**: Identify trends and causes of employee attrition.
@@ -122,15 +122,15 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 
 ## Education
 - **University of Ghana**: Bachelor of Science - Computer Science
-- **[Data Science Certification Courses and Other Relevant Education]**
 
-## Certificates
-- Data Science Professional Certificate – [Institution Name] (Date)
-- Tableau Data Visualization – [Institution Name] (Date)
-- Power BI Essentials – [Institution Name] (Date)
-- Python for Data Analysis – [Institution Name] (Date)
+## Training 
+- Data Science 
+- Tableau Data Visualization 
+- Power BI Essentials
+- Python for Data Analysis
 
 ## Contact
-- **LinkedIn**: [@yourLinkedInProfile]
-- **Email**: [your-email@example.com]
+- **LinkedIn**: oscar-siaw-annim
+- **Email**: annimoscar@gmail.com
+- **Tel**: +233548763801 / +233200039520
 
