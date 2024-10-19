@@ -37,21 +37,15 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: Python, NLTK, Pandas, Scikit-learn.
 - **[Link to Project]**
 - 
-#### 2. Customer Segmentation
-- **Goal**: Segment customers based on purchase behavior using clustering techniques.
-- **Description**: This project involves analyzing customer data to group them into distinct segments for targeted marketing. The dataset includes customer demographic and purchasing information.
-- **Skills**: Data cleaning, clustering (K-means), Exploratory Data Analysis (EDA).
-- **Technology**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
-- **[Link to Project]**
 
-#### 3.Loan Eligibility Prediction (Python Project)
+#### 2.Loan Eligibility Prediction (Python Project)
 - **Goal**: Predict loan eligibility based on applicant data and financial information.
 - **Description**: This project aims to develop a predictive model to assess whether an applicant is eligible for a loan. The analysis involves visualizing key features such as credit scores and loan status, followed by the implementation of a Random Forest classifier    to classify loan eligibility. The model was evaluated using precision, recall, and F1-score metrics, with cross-validation to ensure robustness. The results indicate a strong performance in predicting loan eligibility.
   Skills: Data visualization, feature engineering, model training and evaluation, cross-validation.
 - **Technology**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn.
 - **Link to Project**: https://github.com/oscarsiaw/oscarsiaw.github.io/tree/2e41b5e5dcf80074af96ec841c69bc6e2911845c/Loan%20Eligibility 
 
- #### 4. Introduction to Exploratory Data Analysis
+ #### 3. Introduction to Exploratory Data Analysis
 - **Goal**: Perform Exploratory Data Analysis (EDA) on a dataset of roller coasters.
 - **Description**: This project involved using Python to analyze a dataset related to roller coasters, focusing on identifying trends, patterns, and key insights. It included data cleaning, summary statistics, visualizations, and interpretation of the data to uncover interesting insights about the coasters’ features and performance metrics.
 - **Skills**: Data cleaning, EDA, data visualization, summary statistics.
@@ -68,14 +62,8 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: Power BI, DAX, Excel.
 - **Link to Project** : https://github.com/oscarsiaw/oscarsiaw.github.io/tree/7b1b6560f53bc85232c3c48903b958dc145d3bee/Sales%20Performance
 
-#### 2. Employee Productivity Analysis
-- **Goal**: Create a dashboard to track employee productivity and performance.
-- **Description**: This project involves analyzing employee data to monitor their productivity and identify patterns or areas for improvement.
-- **Skills**: Data analysis, KPI visualization, report automation.
-- **Technology**: Power BI.
-- **[Link to Project]**
 
-### 3. Blinkit Store Analysis (Power BI Project)
+### 2. Blinkit Store Analysis (Power BI Project)
 - **Goal**: Analyze the sales performance, customer patterns, and operational insights of Blinkit store using Power BI.
 
 - **Description**: This project involves analyzing sales data from Blinkit, focusing on key performance indicators (KPIs) such as total sales, customer 
