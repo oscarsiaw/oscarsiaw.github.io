@@ -104,12 +104,14 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 
 ### Excel Projects
 
-#### 1. Financial Analysis of a Company
-- **Goal**: Analyze financial data to assess company performance.
-- **Description**: This project involved using Excel to clean and analyze a dataset containing financial records. Key metrics such as revenue, expenses, and profit margins were calculated.
-- **Skills**: Data cleaning, financial modeling, pivot tables, charting.
-- **Technology**: Excel.
-- **[Link to Project]**
+#### 1. Bike Store Analysis Using Excel
+- **Goal**: Analyze bike store sales and performance data to uncover key insights regarding product trends, customer demographics, and overall sales performance.
+- **Description**: This project involved analyzing sales data from a bike store using Excel. Various functions, charts, and pivot tables were used to explore the data and extract meaningful insights.
+        The project focused on understanding sales trends, product categories, and customer segments to support decision-making.
+- **Skills** :
+- Data analysis, Data visualization, Pivot tables, Excel functions (VLOOKUP, SUMIF, etc.), Charts and graphs
+   **Technology**: Microsoft Excel
+- **Link to the Project** :
 
 #### 2. HR Employee Attrition Report
 - **Goal**: Identify trends and causes of employee attrition.
