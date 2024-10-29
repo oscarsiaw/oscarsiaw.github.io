@@ -84,7 +84,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Description**: An interactive dashboard that explores Airbnb data to uncover insights into pricing, occupancy rates, and seasonal trends across cities.
 - **Skills**: *Data visualization*, *interactive filters*, *map charts*.
 - **Technology**: *Tableau*.
-- **Link to Project**: [Airbnb Analysis](#)
+- **Link to Project**: [Airbnb Analysis] (https://github.com/oscarsiaw/oscarsiaw.github.io/tree/6d17e0ddc4cae09936bb1dcce44ed84bc4a16a4c/Airbnb)
 
 
 ### 2. Amazon Sales Analysis
@@ -92,7 +92,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Description**: This dashboard provides insights into Amazon's sales, customer preferences, and revenue trends, aiding inventory management and strategic planning.
 - **Skills**: *Data storytelling*, *bar charts*, *trend analysis*.
 - **Technology**: *Tableau*.
-- **Link to Project**: [Amazon Sales Analysis](#)
+- **Link to Project**: [Amazon Sales Analysis] (https://github.com/oscarsiaw/oscarsiaw.github.io/tree/6d17e0ddc4cae09936bb1dcce44ed84bc4a16a4c/Amazon%20sales)
 
 ---
 
@@ -101,7 +101,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Description**: Analyzes salary data by location, skill level, and company size to provide insights for career progression and hiring trends.
 - **Skills**: *Salary analysis*, *interactive filters*, *bar charts*.
 - **Technology**: *Tableau*.
-- **Link to Project**: [Data Science Salaries](#)
+- **Link to Project**: [Data Science Salaries] https://github.com/oscarsiaw/oscarsiaw.github.io/tree/6d17e0ddc4cae09936bb1dcce44ed84bc4a16a4c/Ds%20Salaries
 
 
 ### 4. Hollywood Film Industry Insights
@@ -109,15 +109,14 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Description**: This dashboard visualizes movie trends, genre popularity, and production budgets, offering insights into Hollywood’s revenue drivers.
 - **Skills**: *Time-series analysis*, *genre comparison*, *storytelling*.
 - **Technology**: *Tableau*.
-- **Link to Project**: [Hollywood Film Industry Insights](#)
-
+- **Link to Project**: [Hollywood Film Industry Insights] https://github.com/oscarsiaw/oscarsiaw.github.io/tree/6d17e0ddc4cae09936bb1dcce44ed84bc4a16a4c/Hollywood
 
 ### 5. Netflix Trends
 - **Goal**: Analyze Netflix’s content library and viewer ratings.
 - **Description**: Analyzes genre distributions and viewer ratings, helping identify popular content and potential areas for new production.
 - **Skills**: *Data exploration*, *genre categorization*, *audience insights*.
 - **Technology**: *Tableau*.
-- **Link to Project**: [Netflix Trends](#)
+- **Link to Project**: [Netflix Trends] https://github.com/oscarsiaw/oscarsiaw.github.io/tree/6d17e0ddc4cae09936bb1dcce44ed84bc4a16a4c/Netflix_Title
 
 
 ### 6. Prime Video Content Analysis
@@ -125,7 +124,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Description**: This dashboard offers insights into Prime Video’s content performance by genre and rating, aiding content strategy.
 - **Skills**: *Trend analysis*, *viewer segmentation*, *chart customization*.
 - **Technology**: *Tableau*.
-- **Link to Project**: [Prime Video Content Analysis](#)
+- **Link to Project**: [Prime Video Content Analysis] https://github.com/oscarsiaw/oscarsiaw.github.io/tree/6d17e0ddc4cae09936bb1dcce44ed84bc4a16a4c/Prime_video
 
 
 ### 7. Tripadvisor Hotel Analysis
@@ -133,7 +132,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Description**: Analyzes customer satisfaction by hotel type and location, providing actionable insights for service improvements.
 - **Skills**: *Sentiment analysis*, *interactive filters*, *customer insights*.
 - **Technology**: *Tableau*.
-- **Link to Project**: [Tripadvisor Hotel Analysis](#)
+- **Link to Project**: [Tripadvisor Hotel Analysis] https://github.com/oscarsiaw/oscarsiaw.github.io/tree/6d17e0ddc4cae09936bb1dcce44ed84bc4a16a4c/Tripadvisor_hotels
 
 
 ### 8. HR Employee Data Insights
@@ -141,7 +140,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Description**: A dashboard to analyze employee demographics, retention, and performance, supporting HR decisions.
 - **Skills**: *Employee data analysis*, *trend visualization*, *KPI tracking*.
 - **Technology**: *Tableau*.
-- **Link to Project**: [HR Employee Data Insights](#)
+- **Link to Project**: [HR Employee Data Insights] https://github.com/oscarsiaw/oscarsiaw.github.io/tree/6d17e0ddc4cae09936bb1dcce44ed84bc4a16a4c/WA_Fn-UseC_-HR-Employee-Attrition
 
 
 ### 9. World Cup Performance Analysis
@@ -149,7 +148,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Description**: Explores World Cup data, offering insights into match outcomes, player stats, and team rankings over time.
 - **Skills**: *Sports data analysis*, *trend charts*, *geographic maps*.
 - **Technology**: *Tableau*.
-- **Link to Project**: [World Cup Performance Analysis](#)
+- **Link to Project**: [World Cup Performance Analysis] https://github.com/oscarsiaw/oscarsiaw.github.io/tree/6d17e0ddc4cae09936bb1dcce44ed84bc4a16a4c/WorldCup
 
 ---
 
