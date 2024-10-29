@@ -27,6 +27,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: MySQL.
 - **Link to Project Codes ** : https://github.com/oscarsiaw/oscarsiaw.github.io/blob/8479d8ff61c2adf274dddec1c60b9e96e594dac3/Layoffs%20Data%20Cleaning%20and%20Transformation%20Project.pdf
 
+---
 
 ## Python Projects
 
@@ -52,6 +53,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: Python, Pandas, Matplotlib, Seaborn.
 - **Link to Project**(https://github.com/oscarsiaw/oscarsiaw.github.io/blob/f7598ae00fefebc20d602258cceb18f0e30e2dc3/Introduction%20to%20Exploratory%20Data%20Analysis%20Python%20%C2%B7%20Roller%20Coaster%20Database.ipynb)
 
+---
 
 ## Power BI Projects
 
@@ -84,7 +86,6 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: *Tableau*.
 - **Link to Project**: [Airbnb Analysis](#)
 
----
 
 ### 2. Amazon Sales Analysis
 - **Goal**: Visualize sales performance across Amazon’s product categories.
@@ -102,7 +103,6 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: *Tableau*.
 - **Link to Project**: [Data Science Salaries](#)
 
----
 
 ### 4. Hollywood Film Industry Insights
 - **Goal**: Examine factors influencing Hollywood box office success.
@@ -111,7 +111,6 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: *Tableau*.
 - **Link to Project**: [Hollywood Film Industry Insights](#)
 
----
 
 ### 5. Netflix Trends
 - **Goal**: Analyze Netflix’s content library and viewer ratings.
@@ -120,7 +119,6 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: *Tableau*.
 - **Link to Project**: [Netflix Trends](#)
 
----
 
 ### 6. Prime Video Content Analysis
 - **Goal**: Visualize Prime Video’s content offerings and viewer engagement.
@@ -129,7 +127,6 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: *Tableau*.
 - **Link to Project**: [Prime Video Content Analysis](#)
 
----
 
 ### 7. Tripadvisor Hotel Analysis
 - **Goal**: Examine hotel ratings and reviews across regions.
@@ -138,7 +135,6 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: *Tableau*.
 - **Link to Project**: [Tripadvisor Hotel Analysis](#)
 
----
 
 ### 8. HR Employee Data Insights
 - **Goal**: Understand workforce demographics and performance.
@@ -147,7 +143,6 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: *Tableau*.
 - **Link to Project**: [HR Employee Data Insights](#)
 
----
 
 ### 9. World Cup Performance Analysis
 - **Goal**: Visualize team statistics and player performances across tournaments.
@@ -157,7 +152,6 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Link to Project**: [World Cup Performance Analysis](#)
 
 ---
-
 
 ### Excel Projects
 
