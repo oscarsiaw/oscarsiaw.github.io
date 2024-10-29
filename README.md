@@ -5,9 +5,9 @@ Hi, I'm Annim! I'm a Data Analyst with a background in **Computer Science** and 
 
 Feel free to explore my projects, and reach out to me for collaborations or inquiries.
 
-## Portfolio Projects
+# Portfolio Projects
 
-### MySQL Projects
+## MySQL Projects
 #### 1.Financial Loan Data Analysis SQL Queries
 - **Goal**: Analyze financial loan data using SQL for querying and Tableau for visualization to uncover trends and insights.
 - **Description**: his project involves financial loan data analysis. After querying the dataset using SQL for insights on loan status,
@@ -28,7 +28,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Link to Project Codes ** : https://github.com/oscarsiaw/oscarsiaw.github.io/blob/8479d8ff61c2adf274dddec1c60b9e96e594dac3/Layoffs%20Data%20Cleaning%20and%20Transformation%20Project.pdf
 
 
-### Python Projects
+## Python Projects
 
 #### 1. Sentiment Analysis on Online Discussions (Research Project)
 - **Goal**: Develop and propose a model for performing sentiment analysis on online discussions.
@@ -53,7 +53,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Link to Project**(https://github.com/oscarsiaw/oscarsiaw.github.io/blob/f7598ae00fefebc20d602258cceb18f0e30e2dc3/Introduction%20to%20Exploratory%20Data%20Analysis%20Python%20%C2%B7%20Roller%20Coaster%20Database.ipynb)
 
 
-### Power BI Projects
+## Power BI Projects
 
 #### 1.Sales Performance Analysis (Power BI Project)
 - **Goal**: Analyze sales data to evaluate performance metrics and identify trends.
@@ -86,7 +86,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 
 ---
 
-## 2. Amazon Sales Analysis
+### 2. Amazon Sales Analysis
 - **Goal**: Visualize sales performance across Amazon’s product categories.
 - **Description**: This dashboard provides insights into Amazon's sales, customer preferences, and revenue trends, aiding inventory management and strategic planning.
 - **Skills**: *Data storytelling*, *bar charts*, *trend analysis*.
@@ -95,7 +95,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 
 ---
 
-## 3. Data Science Salaries
+### 3. Data Science Salaries
 - **Goal**: Investigate salary distribution within the Data Science field.
 - **Description**: Analyzes salary data by location, skill level, and company size to provide insights for career progression and hiring trends.
 - **Skills**: *Salary analysis*, *interactive filters*, *bar charts*.
@@ -104,7 +104,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 
 ---
 
-## 4. Hollywood Film Industry Insights
+### 4. Hollywood Film Industry Insights
 - **Goal**: Examine factors influencing Hollywood box office success.
 - **Description**: This dashboard visualizes movie trends, genre popularity, and production budgets, offering insights into Hollywood’s revenue drivers.
 - **Skills**: *Time-series analysis*, *genre comparison*, *storytelling*.
@@ -113,7 +113,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 
 ---
 
-## 5. Netflix Trends
+### 5. Netflix Trends
 - **Goal**: Analyze Netflix’s content library and viewer ratings.
 - **Description**: Analyzes genre distributions and viewer ratings, helping identify popular content and potential areas for new production.
 - **Skills**: *Data exploration*, *genre categorization*, *audience insights*.
@@ -122,7 +122,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 
 ---
 
-## 6. Prime Video Content Analysis
+### 6. Prime Video Content Analysis
 - **Goal**: Visualize Prime Video’s content offerings and viewer engagement.
 - **Description**: This dashboard offers insights into Prime Video’s content performance by genre and rating, aiding content strategy.
 - **Skills**: *Trend analysis*, *viewer segmentation*, *chart customization*.
@@ -131,7 +131,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 
 ---
 
-## 7. Tripadvisor Hotel Analysis
+### 7. Tripadvisor Hotel Analysis
 - **Goal**: Examine hotel ratings and reviews across regions.
 - **Description**: Analyzes customer satisfaction by hotel type and location, providing actionable insights for service improvements.
 - **Skills**: *Sentiment analysis*, *interactive filters*, *customer insights*.
@@ -140,7 +140,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 
 ---
 
-## 8. HR Employee Data Insights
+### 8. HR Employee Data Insights
 - **Goal**: Understand workforce demographics and performance.
 - **Description**: A dashboard to analyze employee demographics, retention, and performance, supporting HR decisions.
 - **Skills**: *Employee data analysis*, *trend visualization*, *KPI tracking*.
@@ -149,7 +149,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 
 ---
 
-## 9. World Cup Performance Analysis
+### 9. World Cup Performance Analysis
 - **Goal**: Visualize team statistics and player performances across tournaments.
 - **Description**: Explores World Cup data, offering insights into match outcomes, player stats, and team rankings over time.
 - **Skills**: *Sports data analysis*, *trend charts*, *geographic maps*.
