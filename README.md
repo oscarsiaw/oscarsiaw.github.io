@@ -74,21 +74,61 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Technology**: Power BI, DAX, Power Query.
 - **Link to Project** : https://github.com/oscarsiaw/oscarsiaw.github.io/tree/c458f88860ef6eb261ba369c4778eb31a0b49f74/Blinkit%20Store
 
-### Tableau Projects
-
-#### 1. Global Sales Dashboard
-- **Goal**: Visualize global sales performance.
-- **Description**: Using Tableau to create a visually engaging dashboard for understanding the sales data of a company across multiple countries.
-- **Skills**: Data visualization, storytelling with data, map charts.
-- **Technology**: Tableau.
-- **[Link to Project]**
-
-#### 2. COVID-19 Data Visualization
-- **Goal**: Visualize COVID-19 cases, deaths, and vaccination rates by country.
-- **Description**: This project presents an interactive dashboard that tracks the global impact of COVID-19 with filters for regions and timeframes.
-- **Skills**: Data aggregation, filtering, geographic maps.
-- **Technology**: Tableau.
-- **[Link to Project]**
+### 3. Tableau Projects
+## 1. Airbnb Analysis
+Goal: Analyze Airbnb listing performance and pricing trends.
+Description: An interactive dashboard that explores Airbnb data to uncover insights into pricing, occupancy rates, and seasonal trends across cities.
+Skills: Data visualization, interactive filters, map charts.
+Technology: Tableau.
+[Link to Project]
+## 2. Amazon Sales Analysis
+Goal: Visualize sales performance across Amazon’s product categories.
+Description: This dashboard provides insights into Amazon's sales, customer preferences, and revenue trends, aiding inventory management and strategic planning.
+Skills: Data storytelling, bar charts, trend analysis.
+Technology: Tableau.
+[Link to Project]
+## 3. Data Science Salaries
+Goal: Investigate salary distribution within the Data Science field.
+Description: Analyzes salary data by location, skill level, and company size to provide insights for career progression and hiring trends.
+Skills: Salary analysis, interactive filters, bar charts.
+Technology: Tableau.
+[Link to Project]
+## 4. Hollywood Film Industry Insights
+Goal: Examine factors influencing Hollywood box office success.
+Description: This dashboard visualizes movie trends, genre popularity, and production budgets, offering insights into Hollywood’s revenue drivers.
+Skills: Time-series analysis, genre comparison, storytelling.
+Technology: Tableau.
+[Link to Project]
+## 5. Netflix Trends
+Goal: Analyze Netflix’s content library and viewer ratings.
+Description: Analyzes genre distributions and viewer ratings, helping identify popular content and potential areas for new production.
+Skills: Data exploration, genre categorization, audience insights.
+Technology: Tableau.
+[Link to Project]
+## 6. Prime Video Content Analysis
+Goal: Visualize Prime Video’s content offerings and viewer engagement.
+Description: This dashboard offers insights into Prime Video’s content performance by genre and rating, aiding content strategy.
+Skills: Trend analysis, viewer segmentation, chart customization.
+Technology: Tableau.
+[Link to Project]
+## 7. Tripadvisor Hotel Analysis
+Goal: Examine hotel ratings and reviews across regions.
+Description: Analyzes customer satisfaction by hotel type and location, providing actionable insights for service improvements.
+Skills: Sentiment analysis, interactive filters, customer insights.
+Technology: Tableau.
+[Link to Project]
+## 8. HR Employee Data Insights
+Goal: Understand workforce demographics and performance.
+Description: A dashboard to analyze employee demographics, retention, and performance, supporting HR decisions.
+Skills: Employee data analysis, trend visualization, KPI tracking.
+Technology: Tableau.
+[Link to Project]
+## 9. World Cup Performance Analysis
+Goal: Visualize team statistics and player performances across tournaments.
+Description: Explores World Cup data, offering insights into match outcomes, player stats, and team rankings over time.
+Skills: Sports data analysis, trend charts, geographic maps.
+Technology: Tableau.
+[Link to Project]
 
 ### Excel Projects
 
