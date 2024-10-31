@@ -36,7 +36,7 @@ Date Conversion: Converted date from string format to a valid DATE format using 
 - **Description**: This was my final year research project, where we proposed a model for sentiment analysis on user-generated content from social media platforms. The project involved analyzing comments and posts to categorize opinions into positive, neutral, or negative sentiments. The model was developed and tested using a large dataset of online discussions, and the results showed promising accuracy.
 - **Skills**: Model development, Natural Language Processing (NLP), sentiment classification, data preprocessing.
 - **Technology**: Python, NLTK, Pandas, Scikit-learn.
-- **[Link to Project]**
+- **[Link to Project]** : https://github.com/oscarsiaw/oscarsiaw.github.io/tree/23dbb8882201f54aad8eb23ad95720b83ade2eaa/Sentiment%20Analysis
 - 
 
 #### 2.Loan Eligibility Prediction (Python Project)
